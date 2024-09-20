@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I currently work as software engineer at Ilionx. I specialize in backend web development in .NET, but also have experience with C++, Python and TypeScript. I am especially interested in learning more about software architecture.
+I currently work as software engineer at Ilionx. I specialize in backend web development in .NET, but also have experience with C++, Python and TypeScript. I am especially interested in learning more about game development and software architecture.
 
 
 ## ⚡ Technologies I have experience with:
